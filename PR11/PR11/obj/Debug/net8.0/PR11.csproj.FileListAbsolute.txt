@@ -1,0 +1,14 @@
+Z:\Program C#\PR11\PR11\bin\Debug\net8.0\PR11.exe
+Z:\Program C#\PR11\PR11\bin\Debug\net8.0\PR11.deps.json
+Z:\Program C#\PR11\PR11\bin\Debug\net8.0\PR11.runtimeconfig.json
+Z:\Program C#\PR11\PR11\bin\Debug\net8.0\PR11.dll
+Z:\Program C#\PR11\PR11\bin\Debug\net8.0\PR11.pdb
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.AssemblyInfoInputs.cache
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.AssemblyInfo.cs
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.csproj.CoreCompileInputs.cache
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.dll
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\refint\PR11.dll
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.pdb
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\PR11.genruntimeconfig.cache
+Z:\Program C#\PR11\PR11\obj\Debug\net8.0\ref\PR11.dll
